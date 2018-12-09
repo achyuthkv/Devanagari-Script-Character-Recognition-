@@ -6,3 +6,5 @@ Classification   and   recognition   of   printed   hindi   characters using  AN
 Vowels  and consonants  in  hindi  characters  were  divided  into  subgroups based  on  certain  significant  characteristics.  
 For  each  sub group,  a  separate  feed  forward  neural  network  is  designed  to recognize  the  character  which  belongs  to  that  group.  
 Overall performance of the system is tested and recognition rate in the range of 76-86% for various samples is achieved.
+
+
